@@ -1,4 +1,4 @@
-# Computer-Vision-with-Python
+# Computer-Vision-with-OpenCV
 Techniques in computer vision with Python and OpenCV library to analyze images and video data
 
 
